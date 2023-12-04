@@ -1,0 +1,159 @@
+ /* vsl.css */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(94, 248, 254);
+}
+
+.elevator {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  background-color:black;
+  background-image: conic-gradient(silver,grey,silver,grey,silver,grey,silver,grey);
+  border-radius: 5px;
+  overflow: hidden;
+  cursor: pointer;
+  animation: moveElevator 5s ease-in-out forwards;
+}
+
+@keyframes moveElevator {
+  100% {
+    top: 0;
+  }
+  10% {
+    top: calc(100vh - 250px);
+  }
+}
+
+.doors-container {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.doors {
+  flex: 1;
+  height: 100%;
+  background-color:black;
+  background-image: conic-gradient(gold, yellow,gold,yellow,gold, yellow,gold,yellow);
+    transform-origin: center;
+  transform: scaleX(0);
+  transition: transform 2s ease-in-out;
+}
+
+.elevator.open .doors {
+  transform: scaleX(1);
+}
+
+#heading1 {
+  text-align: center;
+  color: rgb(0, 0, 149);
+  font-family: 'Times New Roman', Times, black serif;
+}
+#sky{
+  color: rgb(0, 0, 149);
+}
+.cloud {
+  position: absolute;
+  background-color: #fff;
+  animation: moveCloud 20s linear infinite;
+  border-radius: 50%;
+}
+
+.cloud1, .cloud2, .cloud3 {
+  width: 100px;
+  height: 55px;
+}
+
+.cloud1::before, .cloud1::after,
+.cloud2::before, .cloud2::after,
+.cloud3::before, .cloud3::after {
+  content: "clouds";
+  color: aqua;
+  position: absolute;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+.cloud1 {
+  top: 20%;
+  left: 10%;
+  border-radius: 50% 70% 60% 50%;
+}
+
+.cloud1::before {
+  width: 40px;
+  height: 30px;
+  top: -10px;
+  left: 20px;
+  border-radius: 50% 70% 60% 50%;
+}
+
+.cloud1::after {
+  width: 20px;
+  height: 15px;
+  top: 5px;
+  left: 50px;
+  border-radius: 50% 70% 60% 50%;
+}
+
+.cloud2 {
+  top: 30%;
+  left: 50%;
+  border-radius: 50% 70% 60% 50%;
+}
+
+.cloud2::before {
+  width: 30px;
+  height: 20px;
+  top: -5px;
+  left: 15px;
+  border-radius: 50% 70% 60% 50%;
+}
+
+.cloud2::after {
+  width: 40px;
+  height: 30px;
+  top: 10px;
+  left: 50px;
+  border-radius: 50% 70% 60% 50%;
+}
+
+.cloud3 {
+  top: 40%;
+  left: 80%;
+  width: 80px;
+  height: 40px;
+  border-radius: 50% 70% 60% 50%;
+}
+
+.cloud3::before {
+  width: 40px;
+  height: 30px;
+  top: -10px;
+  left: 20px;
+  border-radius: 50% 70% 60% 50%;
+}
+
+.cloud3::after {
+  width: 40px;
+  height: 25px;
+  top: 5px;
+  left: 50px;
+  border-radius: 50% 70% 60% 50%;
+}
+
+@keyframes moveCloud {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
