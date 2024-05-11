@@ -1,0 +1,77 @@
+background-image: conic-gradient(silver,grey,silver,grey,silver,grey,silver,grey);
+
+
+
+<center><img src="C:\Users\pandu\Downloads\vsl face.jpg" width ='700px' height="700px"></center>
+<h1 style='color:red';>SPECIALIZED IN:</h1>
+ <h3>Passenger / Glass / MRL / Home Hydraulic / Goods </h3>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <br><br>
+  <hr>
+  <br>
+  
+  
+<h1 style='color:red'>PASSENGER ELEVATORS:</h1><h3  style='color:#555'>(Auto & Manual Door)</h3>
+<br><ul><li>The passenger elevators detailed here are designed to handle promptly and efficiently the transportation requirements of any type of building-which means any traffic condition.</li>
+  <li>They are renowned for fine quality and robust performance.</li> <li>Delivers maximum lifting power with a minimum of effort.
+  </li><li>It gives benefits of jerk less travelling, economically low power consumption and excellent design.</li><li>
+  100% safety, Easy to use and maintain</li>
+<h4 style='color:red'>Auto Door:</h4><img src=" https://th.bing.com/th/id/R.6a59c8d1c0c212bd9e3087a07389d484?rik=1s7IDl8Wvfo58g&riu=http%3a%2f%2fcampbellpropertymanagement.com%2fblog%2fwp-content%2fuploads%2f2014%2f12%2fsmall_sign_elevator_template.jpg&ehk=zNJ%2fnNygq4gWad%2fVuwPOdm2s5dWfhz9N33%2fJh7u8U1s%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="300px" height="400px">
+<h4 style='color:red'style="float:right;" margin-right: 30px;">
+Manual Door:</h4><img src='https://i.pinimg.com/originals/34/70/42/34704252ae972c6a74bde51aad3e7ba3.jpg' width="300" height="400"><br><br><br><hr>
+<h1 style='color:red'>Glass Door Elevators:</h1>
+<img src="https://th.bing.com/th/id/R.2e003e232631eac93462906e30988ae5?rik=obdxS87esx2meA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2f2%2f23%2fVisilift_Visi-58_Round_Residential_Elevator.jpg%2f220px-Visilift_Visi-58_Round_Residential_Elevator.jpg&ehk=qWEgBIYtGxaQqQQ2%2bswdruvmMRcFJmuRqKbGeS7Wkr0%3d&risl=&pid=ImgRaw&r=0" width="300px" height="400px"><br><br><br><hr><br><br><br>
+<h1 style='color:red'>MRL Elevators:</h1><h5 style='color:red'>(Machine Roomless Elevators)</h5><ul><li>Vertil Safe Lane Elevator is counted among the most reckoned names engaged in designing and developing Machine Roomless elevators</li> <li>Though traction lifts were originally limited to high rise, the innovative MRL design has allowed engineers to adapt elevators for low rise building and homes</li>
+<li> The advantage of MRL is much appreciated by civil engineers, architects and
+users.</li>
+<li>These elevators save 25% electricity and 10% of construction cost.</li>
+<li>MRL have broken through the prerequisite for machine rooms, providing limitless possibilities of creation for the limited space of modern construction.</li>
+<li>Longer functional life, Required low maintenance</li></ul><center><img src=" https://i.stack.imgur.com/JlgVc.jpg"></center>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<br>
+<center><h1 style='color:red'>Highlights of our Products</h1></center><br><br><br><br>
+<h2 style='color:rgb(0, 255, 0)'>1. Geared And Gearless Motors:</h2>
+<h2 style='color:rgb(0, 255, 0)'>2.Modern cabin Designs (Powder coated)</h2>
+<h2 style='color:rgb(0, 255, 0)'>3.Modern false ceiling designs</h2>
+<h2 style='color:rgb(0, 255, 0)'>4.Fabrication works </h2>
+<h2 style='color:rgb(0, 255, 0)'>5.Control Panel</h2>
+<h4>TRANSIT Elevator Series Controller Features:</h4>
+<ul><li>Microprocessor Based V3F Controller Expandable upto 32bit</li>
+<li>Smooth Start and Stop</li>
+<li>Power Saving Features</li>
+<li>Easy Diagnosis and Troubleshooting</li>
+<li>Customized Special Features if required</li>
+<li>Parallel and Serial Configuration</li>
+<li>Group Control Upto 8 Cards</li>
+<li>Custom Build Controllers for MRL</li>
+<li>IP Degree Protection if required</li>
+<li>Voice Synthesizers as per need and requirement</li></ul>
+<h2 style='color:rgb(0, 255, 0)'>6.Maintannce and service Plans(AMC)</h2>
+<h2 style='color:rgb(0, 255, 0)'>7.Over Speed Governor </h2>
+<h2 style='color:rgb(0, 255, 0)'>8.Automatic Door sensor and Overload Device</h2><br><br><hr><br><br>
+ 
+ 
+
+</div>
